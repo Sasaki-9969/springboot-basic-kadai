@@ -1,4 +1,4 @@
-package com.example.springkadaitodo.controller;
+package com.example.springkadaiform.controller;
 
 import org.springframework.core.Conventions;
 import org.springframework.stereotype.Controller;
@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
-import com.example.springkadaitodo.form.ContactForm;
+import com.example.springkadaiform.form.ContactForm;
 
 
 

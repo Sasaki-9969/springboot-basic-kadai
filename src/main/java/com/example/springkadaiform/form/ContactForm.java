@@ -1,4 +1,4 @@
-package com.example.springkadaitodo.form;
+package com.example.springkadaiform.form;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
